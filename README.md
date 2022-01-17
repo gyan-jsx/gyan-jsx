@@ -22,5 +22,5 @@
 
 
    ![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyan-jsx&show_icons=true&theme=gotham)<Br>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-jsx&layout=compact)](https://github.com/gyan-jsx/github-readme-stats)<br>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan-jsx&theme=gotham&layout=compact)](https://github.com/gyan-jsx/github-readme-stats)<br>
  
