@@ -1,18 +1,20 @@
 # Hello,I am Gyan Shresth!
 
-
-🔫I am curently working on one project
-   ><li>Secretra - Share your art anonymously</li>
+## Hi Everyone 💙
+- Gyan This Side
+- Student | Programmer | Gamer
+#### Currently 
+- Dealing with React and Django
+- Falling in love with <b> <i>_PYTHON_</i> <b>
+- GitHub
    
-☢☢I am currently learning React Native and python.<br><BR>
-🏫I am a student of St.Xavier's School `Class:8`<br><BR>
-📜How to reach me:[Gmail](https://mailto:sweetdeviljs05@gmail.com)<BR><BR>
-⚡Fun Fact: Programming takes upto 60% of my day.<BR><BR>
-   
-   ## ⚡ Technologies
+ 
+## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)<br>
+![Django](https://img.shields.io/badge/-Python-black?style=flat-square&logo=django)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
