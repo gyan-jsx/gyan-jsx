@@ -1,7 +1,7 @@
 # Hello,I am Gyan Shresth!
 
 ## Hi Everyone 💙
-- Gyan This Side
+- Gyan This Side [![Gmail Badge](https://img.shields.io/badge/-sweetdeviljs05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sweetdeviljs05@gmail.com)](mailto:sweetdeviljs05@gmail.com)
 - Student | Programmer | Gamer
 #### Currently 
 - Dealing with React and Django
