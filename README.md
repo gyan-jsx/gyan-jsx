@@ -4,7 +4,7 @@
 - Gyan This Side [![Gmail Badge](https://img.shields.io/badge/-sweetdeviljs05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sweetdeviljs05@gmail.com)](mailto:sweetdeviljs05@gmail.com)
 - Student | Programmer | Gamer
 #### Currently 
-- Dealing with React and Django
+- Dealing with React
 - Falling in love with <b> <i>_PYTHON_</i> <b>
 - GitHub
    
