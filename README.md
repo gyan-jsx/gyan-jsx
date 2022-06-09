@@ -3,6 +3,7 @@
 ## Hi Everyone 💙
 - Gyan This Side [![Gmail Badge](https://img.shields.io/badge/-sweetdeviljs05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sweetdeviljs05@gmail.com)](mailto:sweetdeviljs05@gmail.com)
 - Student | Programmer | Gamer
+- Another ![Github Account](https://github.com/gyan-js)
 #### Currently 
 - Dealing with React
 - Falling in love with <b> <i>DART</i> <b>
